@@ -12,5 +12,6 @@ public class Day_01 {
             arr[i] = sc.nextInt();
         }
         System.out.println(Arrays.toString(arr));
+        sc.close();
     }
 }
