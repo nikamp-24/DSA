@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 
-public class HashMapCode_03 {
+public class Hashing_03 {
 
     static class HashMap<K, V> {  // generics
 
